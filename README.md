@@ -23,7 +23,7 @@
 
 **Languages and Tools:** 
 
-<!-- Github readme stats-->
+
 <p>
   <!-- Languages and tools. -->
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
@@ -39,6 +39,7 @@
   <br />
 </p>
 
+<!-- Github readme stats-->
   <a href="https://github.com/h4rad4/handle-path-oz">
     <img width="55%" align="left" alt="H4rad4's github stats" src="https://github-readme-stats.vercel.app/api?username=h4rad4&show_icons=true&hide_border=true&theme=tokyonight" />
   </a>
