@@ -12,10 +12,10 @@
 &nbsp;
 
 
-<!-- Talking about you -->
+<!-- About -->
 **Some Personal Stuff:**
 
-<!-- Any image aligned to the right. Beware the width -->
+<!-- Image -->
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" /> 
 
 - 🌱 I’m currently learning Game Development with Unity; 
