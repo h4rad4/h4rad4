@@ -16,7 +16,7 @@
 **Some Personal Stuff:**
 
 <!-- Image -->
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" /> 
+<img width="55%" align="right" alt="Github" src="https://github.com/h4rad4/h4rad4/tree/main/images" /> 
 
 - 🌱 I’m currently learning Game Development with Unity; 
 - 💬 Ask me about anything, I am happy to help;
