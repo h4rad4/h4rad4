@@ -47,5 +47,3 @@
 <p align="center">
   <img alt="ViewCount" src="https://views.whatilearened.today/views/github/onimur/h4rad4.svg" />
 </p>
-
-
