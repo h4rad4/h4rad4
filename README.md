@@ -16,7 +16,9 @@
 
 <!-- Image -->
 <img width="40%" align="right" alt="Github" src="https://github.com/h4rad4/h4rad4/blob/main/images/inspectocat.png" /> 
-
+  <a href="https://github.com/h4rad4/handle-path-oz">
+    <img width="55%" align="right" alt="H4rad4's github stats" src="https://github-readme-stats.vercel.app/api?username=h4rad4&show_icons=true&hide_border=true&theme=tokyonight" />
+  </a>
 - 🌱 I’m currently learning Game Development with Unity; 
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: I'm admin of a minecraft server (CCNetwork);
@@ -25,9 +27,7 @@
 
 <!-- Github readme stats-->
 <p>
-  <a href="https://github.com/h4rad4/handle-path-oz">
-    <img width="45%" align="right" alt="H4rad4's github stats" src="https://github-readme-stats.vercel.app/api?username=h4rad4&show_icons=true&hide_border=true&theme=tokyonight" />
-  </a>
+
 
   <!-- Languages and tools. -->
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
