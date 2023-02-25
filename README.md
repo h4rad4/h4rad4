@@ -2,7 +2,7 @@
 ## Hello, World!
 
 <p>
-  I'm h4rad4, a Computer Engineering student fascinated with learning new technologies and applying this knowledge in the development of innovations.
+  I'm h4rad4, a tech-enthusiast Computer Engineering student who enjoys learning new technologies and their applications.
 </p>
 <!-- Badges -->
 
