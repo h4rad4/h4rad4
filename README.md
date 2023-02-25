@@ -26,7 +26,7 @@
 <!-- Github readme stats-->
 <p>
   <a href="https://github.com/h4rad4/handle-path-oz">
-    <img width="55%" align="right" alt="H4rad4's github stats" src="https://github-readme-stats.vercel.app/api?username=h4rad4&show_icons=true&hide_border=true&theme=tokyonight" />
+    <img width="45%" align="right" alt="H4rad4's github stats" src="https://github-readme-stats.vercel.app/api?username=h4rad4&show_icons=true&hide_border=true&theme=tokyonight" />
   </a>
 
   <!-- Languages and tools. -->
