@@ -44,8 +44,8 @@
   </a>
 
 <!-- Hits/visitors -->
-![](https://komarev.com/ghpvc/?username=h4rad4&color=brightgreen)
+
 <p align="center">
-  
   <a href="https://hits.sh/github.com/h4rad4/hits/"><img alt="Hits" src="https://hits.sh/github.com/h4rad4/hits.svg"/></a>
 </p>
+![](https://komarev.com/ghpvc/?username=h4rad4&color=brightgreen)
