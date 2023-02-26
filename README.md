@@ -47,6 +47,6 @@
 
 
 <p align="center">
-  <img alt="ViewCount" src="https://komarev.com/ghpvc/?username=h4rad4&color=brightgreen" />
+  <img alt="ViewCount" src="https://views.whatilearened.today/views/github/onimur/h4rad4.svg" />
   <!--<a href="https://hits.sh/github.com/h4rad4/hits/"><img alt="Hits" src="https://hits.sh/github.com/h4rad4/hits.svg"/></a>-->
 </p>
