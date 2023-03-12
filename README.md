@@ -15,7 +15,7 @@
 &nbsp;
 
 <!-- About -->
-## **Some Personal Stuff:**
+## 📜 **Some Personal Stuff:**
 
 <!-- Image -->
 <!-- <img width="40%" align="right" alt="Github" src="https://github.com/h4rad4/h4rad4/blob/main/images/inspectocat.png" /> -->
@@ -26,7 +26,7 @@
 
 &nbsp;
 
-## **Languages and Tools:** 
+## 🔧 **Technologies and Tools:** 
 
 
 <p>
