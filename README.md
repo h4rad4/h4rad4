@@ -43,6 +43,7 @@
 </p>
 
 <!-- Github readme stats-->
+## GitHub Stats
   <a href="https://github.com/h4rad4/handle-path-oz">
     <img width="55%" align="left" alt="H4rad4's github stats" src="https://github-readme-stats.vercel.app/api?username=h4rad4&show_icons=true&hide_border=true&theme=tokyonight" />
   </a>
@@ -50,7 +51,7 @@
 <!-- Hits/visitors -->
 
 
-<p align="center">
+<!--<p align="center">
   <img alt="ViewCount" src="https://views.whatilearened.today/views/github/onimur/h4rad4.svg" />
   <!--<a href="https://hits.sh/github.com/h4rad4/hits/"><img alt="Hits" src="https://hits.sh/github.com/h4rad4/hits.svg"/></a>-->
-</p>
+</p> -->
