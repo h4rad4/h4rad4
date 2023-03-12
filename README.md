@@ -1,5 +1,5 @@
 <!-- Title -->
-![Header](https://github.com/h4rad4/h4rad4/blob/main/images/github-header-image.png "Header")
+![Header](https://github.com/h4rad4/h4rad4/blob/main/img/github-header-image.png "Header")
 
 ## Hello, World!
 
