@@ -1,8 +1,10 @@
 <!-- Title -->
+[![Header](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/readme_header.png "Header")
+
 ## Hello, World!
 
 <p>
-  I'm h4rad4, a tech-enthusiast Computer Engineering student who enjoys learning new technologies and their applications.
+  I'm a tech-enthusiast Computer Engineering student who enjoys learning new technologies and their applications.
 </p>
 <!-- Badges -->
 
