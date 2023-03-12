@@ -1,5 +1,5 @@
 <!-- Title -->
-<img height="120" width="130" align="center" alt="Gif" src="https://github.com/h4rad4/h4rad4/blob/main/img/76c0a814cf966cc2c5093ed8064ac505.gif" />
+<img height="30%" width="50%" align="center" alt="Gif" src="https://github.com/h4rad4/h4rad4/blob/main/img/76c0a814cf966cc2c5093ed8064ac505.gif" />
 
 ## Hello, World!
 
