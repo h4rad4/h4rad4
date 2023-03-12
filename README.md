@@ -24,6 +24,8 @@
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: I'm admin of a minecraft server (CCNetwork);
 
+&nbsp;
+
 ## **Languages and Tools:** 
 
 
