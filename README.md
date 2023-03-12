@@ -18,7 +18,7 @@
 ## **Some Personal Stuff:**
 
 <!-- Image -->
-<img width="40%" align="right" alt="Github" src="https://github.com/h4rad4/h4rad4/blob/main/images/inspectocat.png" /> 
+<img width="40%" align="right" alt="Github" src="https://github.com/h4rad4/h4rad4/blob/main/img/76c0a814cf966cc2c5093ed8064ac505.gif" /> 
 
 - 🌱 I’m currently learning Game Development with Unity; 
 - 💬 Ask me about anything, I am happy to help;
