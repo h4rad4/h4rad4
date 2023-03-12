@@ -15,7 +15,7 @@
 &nbsp;
 
 <!-- About -->
-**Some Personal Stuff:**
+## **Some Personal Stuff:**
 
 <!-- Image -->
 <img width="40%" align="right" alt="Github" src="https://github.com/h4rad4/h4rad4/blob/main/images/inspectocat.png" /> 
@@ -24,7 +24,7 @@
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: I'm admin of a minecraft server (CCNetwork);
 
-**Languages and Tools:** 
+## **Languages and Tools:** 
 
 
 <p>
