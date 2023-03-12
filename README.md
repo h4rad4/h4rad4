@@ -1,5 +1,5 @@
 <!-- Title -->
-<img height="100%" width="50%" align="center" alt="Gif" src="https://github.com/h4rad4/h4rad4/blob/main/img/76c0a814cf966cc2c5093ed8064ac505.gif" />
+![Header](https://github.com/h4rad4/h4rad4/blob/main/img/github-header-image.png "Header")
 
 ## Hello, World!
 
@@ -18,7 +18,7 @@
 ## **Some Personal Stuff:**
 
 <!-- Image -->
-<!--<img width="30%" align="right" alt="Gif" src="https://github.com/h4rad4/h4rad4/blob/main/img/76c0a814cf966cc2c5093ed8064ac505.gif" /> -->
+<!-- <img width="40%" align="right" alt="Github" src="https://github.com/h4rad4/h4rad4/blob/main/images/inspectocat.png" /> -->
 
 - 🌱 I’m currently learning Game Development with Unity; 
 - 💬 Ask me about anything, I am happy to help;
