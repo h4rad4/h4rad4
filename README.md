@@ -10,7 +10,6 @@
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/h4rad4)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=flat&logo=discord&logoColor=white)](http://discord.com/users/571131565749567489)
-[![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:williamharad@outlook.com)
 
 &nbsp;
 
@@ -44,19 +43,8 @@
 
 &nbsp;
 
-<!-- Github readme stats-->
-## &#x1f4c8; GitHub Stats
-
-<a href="https://github.com/h4rad4/h4rad4">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=h4rad4&show_icons=true&line_height=27&count_private=true&theme=radical" alt="h4rad4's GitHub Stats" />
-
-<a href="https://github.com/h4rad4/h4rad4">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=h4rad4&hide=java,html,tex&langs_count=3&theme=radical" />
-</a>
-
-</a>
-
-</a>    
+<!-- Ssssnake -->
+![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
 
 <!-- Hits/visitors -->
 
