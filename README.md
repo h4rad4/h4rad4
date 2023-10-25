@@ -2,7 +2,7 @@
   <h2>Olá, eu sou <strong>h4rad4!</strong> <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" width="30"></h2>
 </div>
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="300px" align="right">
 
 <p align="left"> 
   Sou um entusiasta da Computação e áreas relacionadas. Adoro fuçar em novas tecnologias e botar a mão na massa para criar coisas novas.
@@ -21,6 +21,8 @@
   <img src="https://img.shields.io/badge/-SQL-000?&logo=MySQL">
   <img src="https://img.shields.io/badge/-GIT-000?&logo=GIT">
 </p>
+
+<br>
 
 <p align="left">
   <img src="https://i.imgur.com/AZa5yxa.png" height="120" width="500">
