@@ -2,7 +2,7 @@
   <h2>Olá, eu sou <strong>h4rad4!</strong> <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" width="30"></h2>
 </div>
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="300px" align="right">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="350px" max-width="350px" width="300px" align="right">
 
 <p align="left"> 
   Sou um entusiasta da Computação e áreas relacionadas. Adoro fuçar em novas tecnologias e botar a mão na massa para criar coisas novas.
