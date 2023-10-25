@@ -22,12 +22,4 @@
   <img src="https://img.shields.io/badge/-GIT-000?&logo=GIT">
 </p>
 
-<p align="left">
-  💌 Contato: 
-  
-  <a href="#" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=williamharad@gmail.com" /></a>
-
-</p>
-
 <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
