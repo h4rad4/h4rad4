@@ -22,4 +22,9 @@
   <img src="https://img.shields.io/badge/-GIT-000?&logo=GIT">
 </p>
 
-<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
+<br> 
+<p align="left">
+  <img src="https://i.imgur.com/AZa5yxa.png" height="120" width="500">
+</p>
+
+<!-- <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%"> -->
