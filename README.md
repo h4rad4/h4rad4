@@ -22,7 +22,6 @@
   <img src="https://img.shields.io/badge/-GIT-000?&logo=GIT">
 </p>
 
-<br> 
 <p align="left">
   <img src="https://i.imgur.com/AZa5yxa.png" height="120" width="500">
 </p>
