@@ -5,7 +5,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="350px" max-width="300px" width="270px" align="right">
 
 <p align="left"> 
-  Sou um entusiasta da Computação e áreas relacionadas. Adoro fuçar em novas tecnologias e botar a mão na massa para criar coisas novas.
+  Sou um entusiasta da Computação e áreas relacionadas. Gosto de fuçar em novas tecnologias e sou apaixonado por transformar ideias em código executável.
 </p>
 
 <p align="left"> 
