@@ -112,7 +112,7 @@
         <g>
         <text class="label" x="0" y="72">Uptime</text>
         <text class="dots" x="44" y="72">: .....................</text>
-        <text class="value" x="405" y="72">22 years, 4 months, 2 days</text>
+        <text class="value" x="405" y="72">22 years, 4 months, 3 days</text>
         </g>
         
         <g>
@@ -155,7 +155,7 @@
         <text class="label" x="0" y="315">Repos</text>
         <text class="dots" x="38" y="315">: ............</text>
         <text class="value" x="158" y="315">43</text>
-        <text class="dots" x="162" y="315">{Contributed: 5}</text>
+        <text class="dots" x="162" y="315">{Contributed: 6}</text>
         <text class="label" x="280" y="315">| Stars</text>
         <text class="dots" x="327" y="315">: ....</text>
         <text class="value" x="405" y="315">0</text>
@@ -164,20 +164,20 @@
         <g>
         <text class="label" x="0" y="337">Commits</text>
         <text class="dots" x="50" y="337">: ..........</text>
-        <text class="value" x="158" y="337">361</text>
+        <text class="value" x="158" y="337">363</text>
         <text class="label" x="280" y="337">| Followers</text>
         <text class="dots" x="350" y="337">:</text>
-        <text class="value" x="405" y="337">12</text>
+        <text class="value" x="405" y="337">13</text>
         </g>
         
         <g>
         <text class="label" x="0" y="359">Lines of Code</text>
         <text class="dots" x="98" y="359">: ...... </text>
-        <text class="value" x="200" y="359">11,145</text>
+        <text class="value" x="200" y="359">199,989</text>
         <text class="dots" x="204" y="359">(</text>
-        <text class="green" x="210" y="359">32,765++</text>
+        <text class="green" x="210" y="359">216,925++</text>
         <text class="dots" x="285" y="359">,</text>
-        <text class="red" x="294" y="359">21,620--</text>
+        <text class="red" x="294" y="359">16,936--</text>
         <text class="dots" x="365" y="359">)</text>
         </g>
     </g>
