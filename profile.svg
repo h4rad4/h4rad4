@@ -112,7 +112,7 @@
         <g>
         <text class="label" x="0" y="72">Uptime</text>
         <text class="dots" x="44" y="72">: .....................</text>
-        <text class="value" x="405" y="72">22 years, 4 months, 4 days</text>
+        <text class="value" x="405" y="72">22 years, 4 months, 5 days</text>
         </g>
         
         <g>
@@ -164,20 +164,20 @@
         <g>
         <text class="label" x="0" y="337">Commits</text>
         <text class="dots" x="50" y="337">: ..........</text>
-        <text class="value" x="158" y="337">363</text>
+        <text class="value" x="158" y="337">364</text>
         <text class="label" x="280" y="337">| Followers</text>
         <text class="dots" x="350" y="337">:</text>
-        <text class="value" x="405" y="337">13</text>
+        <text class="value" x="405" y="337">14</text>
         </g>
         
         <g>
         <text class="label" x="0" y="359">Lines of Code</text>
         <text class="dots" x="98" y="359">: ...... </text>
-        <text class="value" x="200" y="359">41,814</text>
+        <text class="value" x="200" y="359">18,653</text>
         <text class="dots" x="204" y="359">(</text>
-        <text class="green" x="210" y="359">49,947++</text>
+        <text class="green" x="210" y="359">34,468++</text>
         <text class="dots" x="285" y="359">,</text>
-        <text class="red" x="294" y="359">8,133--</text>
+        <text class="red" x="294" y="359">15,815--</text>
         <text class="dots" x="365" y="359">)</text>
         </g>
     </g>
