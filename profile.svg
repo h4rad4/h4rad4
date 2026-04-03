@@ -112,7 +112,7 @@
         <g>
         <text class="label" x="0" y="72">Uptime</text>
         <text class="dots" x="44" y="72">: .....................</text>
-        <text class="value" x="405" y="72">22 years, 5 months, 3 days</text>
+        <text class="value" x="405" y="72">22 years, 5 months, 4 days</text>
         </g>
         
         <g>
@@ -173,11 +173,11 @@
         <g>
         <text class="label" x="0" y="359">Lines of Code</text>
         <text class="dots" x="98" y="359">: ...... </text>
-        <text class="value" x="200" y="359">209,981</text>
+        <text class="value" x="200" y="359">44</text>
         <text class="dots" x="204" y="359">(</text>
-        <text class="green" x="210" y="359">231,541++</text>
+        <text class="green" x="210" y="359">10,588++</text>
         <text class="dots" x="285" y="359">,</text>
-        <text class="red" x="294" y="359">21,560--</text>
+        <text class="red" x="294" y="359">10,544--</text>
         <text class="dots" x="365" y="359">)</text>
         </g>
     </g>
